@@ -1,8 +1,4 @@
 ---
-title: Unite Our Houses
+title: Save The Date
 layout: default
 ---
-
-# {{ page.title }}
-
-Coming Soon.
