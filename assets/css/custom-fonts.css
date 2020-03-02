@@ -12,7 +12,6 @@
          url('/assets/webfonts/halfelven-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 @font-face {
@@ -21,7 +20,6 @@
          url('/assets/webfonts/hobbitonbrushhand-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 @font-face {
@@ -30,7 +28,6 @@
          url('/assets/webfonts/middleearth-ao6m-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 @font-face {
@@ -39,5 +36,12 @@
          url('/assets/webfonts/ringbearer-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+}
 
+@font-face {
+    font-family: 'party_businessregular';
+    src: url('/assets/webfonts/partybusiness-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/partybusiness-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
