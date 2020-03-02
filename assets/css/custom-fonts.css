@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'game_of_thronesregular';
+    src: url('/assets/webfonts/game_of_thrones-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/game_of_thrones-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'half-elvenregular';
+    src: url('/assets/webfonts/halfelven-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/halfelven-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'hobbiton_brushhahobbitonbrush';
+    src: url('/assets/webfonts/hobbitonbrushhand-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/hobbitonbrushhand-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'middleearthmedium';
+    src: url('/assets/webfonts/middleearth-ao6m-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/middleearth-ao6m-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ringbearermedium';
+    src: url('/assets/webfonts/ringbearer-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/ringbearer-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
